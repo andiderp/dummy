@@ -1,1 +1,1 @@
-This is a dummy repository for testing
+This is a dummy repository for testing.
